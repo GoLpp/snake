@@ -1,8 +1,9 @@
+
 package com.zhu.snake;
 
 import javax.swing.JOptionPane;
 /**
- * Ïß³ÌÀà£¬ÊµÏÖÉáÒÆ¶¯£¬³Ôµ°£¬½áÊøÓÎÏ·£¬ÖØĞÂ»æÍ¼
+ * ï¿½ß³ï¿½ï¿½à£¬Êµï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½ï¿½ï¿½ï¿½Ôµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ï¿½ï¿½Â»ï¿½Í¼
  * @author GG bone
  *
  */
@@ -25,7 +26,7 @@ public class Paint implements Runnable{
 			}
 			sf.repaint();
 		}else{
-			JOptionPane.showMessageDialog(null, "ËÀÍö");
+			JOptionPane.showMessageDialog(null, "ï¿½ï¿½ï¿½ï¿½");
 			System.exit(0);
 		}
 	}
